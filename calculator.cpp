@@ -1,4 +1,3 @@
-
 #include <iostream>
 using namespace std;
 
@@ -30,4 +29,7 @@ int main()
     cout << mult(a, b);
     cout << divide(a, b);
     cout << rem(a, b);
+    cout<<add(1,2);
+    cout<<sub(2,3);
+    return 0;  
 }
